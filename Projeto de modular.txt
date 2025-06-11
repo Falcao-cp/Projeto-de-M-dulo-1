@@ -1,0 +1,20 @@
+Projeto modular = 
+
+° Nome da equipe =
+Samurai Syntaxe;
+
+° Integrantes da equipe = 
+-Caio Falcão Pereira(20251012000279);
+-Francisco Barbosa de Brito(20251012000376);
+-Guilherme Saager da Cunha(20251012000120);
+
+° Resumo do projeto =
+ um aplicativo de saúde mental integrado ao SUS ou a qualquer hospital =
+ - Login de paciente ou médico;
+ - Exclusão de login paciente ou médico;
+ - Marcar consulta;
+ - Remarcar consulta;
+ - Ver datas disponíveis;
+ - Questionário para avaliar paciente;
+ - Contatos de emergência;
+ - Prontuário médico.
